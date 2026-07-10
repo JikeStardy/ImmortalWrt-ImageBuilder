@@ -16,7 +16,6 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-run"
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-uninstall"
 # 极光主题 by github eamonxg
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-theme-aurora luci-app-aurora-config luci-i18n-aurora-config-zh-cn"
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-theme-alpha luci-app-alpha-config"
 # 去广告adghome
 # CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-adguardhome"
 # 代理相关
