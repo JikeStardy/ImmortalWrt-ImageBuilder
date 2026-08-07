@@ -73,7 +73,7 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-bandix luci-i18n-bandix-zh-cn"
 # 静态文件服务器dufs
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-dufs-zh-cn"
 
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES kmod-usb-net-rndis kmod-usb-net-cdc-ether usbutils"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES kmod-usb-core kmod-usb-net kmod-usb-net-rndis kmod-usb-net-cdc-ether kmod-usb3 usbutils"
 
 #===========================以下imm仓库内的软件==============================↓
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-3cat-zh-cn"
